@@ -1,7 +1,8 @@
 # Android-SQLDemo
-a simple SQL Lite database demo app
-add a user to the database, and delete a user.
-app can view all data in the database.
+a simple SQL Lite database demo app.
+
+Add a user to the database, and delete a user.
+App can view all data in the database.
 Data fields: Name, Age.
 
 Tested on a real Android phone Samsung Galaxy 10. 
